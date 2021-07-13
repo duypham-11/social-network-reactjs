@@ -1,0 +1,25 @@
+
+
+.supper-avatar{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.big-avatar{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.medium-avatar{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+.small-avatar{
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+}
